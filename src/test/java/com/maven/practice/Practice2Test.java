@@ -15,5 +15,10 @@ public class Practice2Test {
 	{
 		System.out.println("i'am Fine");
 	}
+	
+	public void method2()
+	{
+		System.out.println("wts up??");
+	}
 
 }
