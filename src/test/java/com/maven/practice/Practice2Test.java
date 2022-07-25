@@ -19,6 +19,8 @@ public class Practice2Test {
 	public void method2()
 	{
 		System.out.println("wts up??");
+		System.out.println("nothing");
 	}
+	
 
 }
