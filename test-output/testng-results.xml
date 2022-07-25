@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Hi..How Are You]]>
+    </line>
+    <line>
+      <![CDATA[url=======>]]>
+    </line>
+    <line>
+      <![CDATA[browser====>]]>
+    </line>
+    <line>
+      <![CDATA[username====>]]>
+    </line>
+    <line>
+      <![CDATA[password=====>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-23T13:59:34 IST" name="Default suite" finished-at="2022-07-23T13:59:34 IST" duration-ms="42">
+    <groups>
+    </groups>
+    <test started-at="2022-07-23T13:59:34 IST" name="Default test" finished-at="2022-07-23T13:59:34 IST" duration-ms="42">
+      <class name="com.maven.practice.Practice2Test">
+        <test-method signature="method1()[pri:0, instance:com.maven.practice.Practice2Test@7e7be63f]" started-at="2022-07-23T13:59:34 IST" name="method1" finished-at="2022-07-23T13:59:34 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hi..How Are You]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+      </class> <!-- com.maven.practice.Practice2Test -->
+      <class name="com.maven.practice.Practice3Test">
+        <test-method signature="method3()[pri:0, instance:com.maven.practice.Practice3Test@c88a337]" started-at="2022-07-23T13:59:34 IST" name="method3" finished-at="2022-07-23T13:59:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[url=======>]]>
+            </line>
+            <line>
+              <![CDATA[browser====>]]>
+            </line>
+            <line>
+              <![CDATA[username====>]]>
+            </line>
+            <line>
+              <![CDATA[password=====>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+      </class> <!-- com.maven.practice.Practice3Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
