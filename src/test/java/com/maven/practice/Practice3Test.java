@@ -18,6 +18,7 @@ public class Practice3Test {
 		//Reporter.log("browser====>", true);
 		//Reporter.log("username====>", true);
 		//Reporter.log("password=====>", true);
+		//
 		
 		System.out.println("url====>"+ url);
 		System.out.println("browser===>"+ browser);
